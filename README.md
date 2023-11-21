@@ -5,7 +5,6 @@ nama : m ryamizard r s
 TI22A2
 ```
 ## Daftar isi
-
 ```
 Tugas
 ```
