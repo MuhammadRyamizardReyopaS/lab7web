@@ -6,7 +6,7 @@ TI22A2
 ```
 ## Daftar isi
 ```
-1.Tugas
+1.Code
 2.Foto
 ```
 ```
